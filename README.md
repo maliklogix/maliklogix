@@ -21,7 +21,7 @@
 ## About Me
 
 ```yaml
-name: Malik Farooq
+name: Muhammad Farooq
 location: Lahore, Pakistan
 current_role: AI Specialist — E-commerce AI Solutions @ NASK Group | NASKSOFT
 education: BSc Computer Science — University of Sargodha
@@ -30,14 +30,14 @@ website: malikfarooq.com
 expertise:
   - Agentic AI Systems & LLM Orchestration
   - RAG (Retrieval-Augmented Generation) Pipelines
-  - E-commerce AI — Lead Scoring, Product Recommendations, Customer Analytics
+  - E-commerce AI — Lead Scoring, Product Recommendation, Customer Analytics, Inventory Intelligence
   - n8n Workflow Automation & AI Marketing Automation
-  - Predictive Analytics & ML Pipelines
+  - ML Pipelines & Predictive Analytics
   - Data Engineering & Dashboard Development
   - Prompt Engineering & AI R&D
 
 currently:
-  working_on: Agentic AI & e-commerce automation systems
+  working_on: Intelligent automation systems, agentic AI pipelines, and data-driven solutions for e-commerce
   learning: Advanced multi-agent architectures & multi-modal AI
   open_to: Collaborations on AI, e-commerce automation & agentic AI projects
 ```
@@ -48,8 +48,9 @@ currently:
 
 | Company | Role | Focus |
 |---|---|---|
-| **NASK Group \| NASKSOFT** | AI Specialist — E-commerce & Marketing Automation | Agentic AI systems, RAG pipelines, Social Watchdog, n8n automation *(Nov 2025 – Feb 2026)* |
-| **HitroTech** | Machine Learning & Data Analyst | ML dashboards, AI lead scoring, real estate predictive analytics *(Nov 2024 – Oct 2025)* |
+| **NASK Group \| NASKSOFT** | AI Specialist — Marketing & E-commerce Automation | Designed and deployed agentic AI systems, built RAG pipelines, implemented AI modules for PakistanProperty, developed AI Studio framework, automated Discord workflows, conducted AI R&D *(Nov 2025 – Feb 2026)* |
+| **HitroTech** | Machine Learning & Data Analyst | Built ML-powered analytics dashboards, developed AI lead scoring system, processed large-scale real estate datasets, generated predictive insights *(Nov 2024 – Oct 2025)* |
+| **Nexara Matrix** | GenAI & Automation Engineer, AI Startup Builder | Built intelligent automation systems, AI-driven tools, and scalable startup solutions *(May 2024 - Jan 2025)* |
 
 ---
 
@@ -105,11 +106,11 @@ currently:
 
 ## Fun Facts
 
-- I build agentic AI systems that automate what most people still do manually
-- I've shipped RAG pipelines and AI modules for real production platforms
-- I believe the best code is the code you didn't have to write — automate everything
-- Coffee + AI + late nights = my most productive hours
-- I turned a CS degree into production-ready AI solutions — and I'd do it all over again
+- I build intelligent automation systems and agentic AI pipelines that transform e-commerce operations.
+- I have hands-on experience deploying RAG architectures and AI-powered lead scoring in production environments.
+- My focus is on shipping production-ready AI solutions that drive measurable business impact.
+- I combine technical expertise with strategic thinking to solve complex challenges in e-commerce and digital business.
+- I am passionate about how intelligent systems can enhance decision-making and create real-world value.
 - My motto: *"Ship AI that works. Drive results. Let automation handle the rest."*
 
 ---
@@ -128,7 +129,7 @@ currently:
 
 <div align="center">
 
-💼 Open to **freelance projects**, **AI consulting**, and **collaboration opportunities**
+💼 Open to **freelance projects**, **AI consulting**, and **collaboration opportunities** in AI, e-commerce automation, and agentic AI.
 
 If you're building something with AI, need e-commerce automation, or want to deploy agentic AI — let's talk!
 
