@@ -20,7 +20,7 @@
 
 ## 👋 About Me
 
-I\'m **Muhammad Farooq**, an **AI Specialist** with a passion for building intelligent automation systems, agentic AI pipelines, and data-driven solutions. My expertise lies at the intersection of **e-commerce, digital business, and cutting-edge AI/ML technologies**. I thrive on transforming complex challenges into scalable, impactful solutions that drive measurable business results.
+I\"m **Muhammad Farooq**, an **AI Specialist** with a passion for building intelligent automation systems, agentic AI pipelines, and data-driven solutions. My expertise lies at the intersection of **e-commerce, digital business, and cutting-edge AI/ML technologies**. I thrive on transforming complex challenges into scalable, impactful solutions that drive measurable business results.
 
 With a strong foundation in Computer Science, I specialize in:
 
@@ -49,7 +49,7 @@ currently:
 
 ## 🚀 Core Expertise & Skills
 
-Here\'s a deeper dive into my technical toolkit and areas of specialization:
+Here\"s a deeper dive into my technical toolkit and areas of specialization:
 
 ### Artificial Intelligence & Machine Learning
 -   **Agentic AI Systems:** Designing and deploying autonomous AI agents for complex tasks.
@@ -90,7 +90,7 @@ Here\'s a deeper dive into my technical toolkit and areas of specialization:
 
 | Company | Role | Key Contributions |
 |---|---|---|
-| **NASK Group \| NASKSOFT** | AI Specialist — Marketing & E-commerce Automation | • Designed and deployed agentic AI systems for social media monitoring (Social Watchdog).<br>• Built RAG pipeline within a scalable agentic AI architecture for intelligent content and product search.<br>• Implemented 8 AI modules for PakistanProperty, enhancing property discovery and customer targeting.<br>• Developed AI Studio framework for NaskSoft\'s client-facing AI solutions.<br>• Automated Discord-based attendance and engagement systems using n8n.<br>• Conducted AI R&D for PakistanProperty, prototyping intelligent recommendation features. *(Nov 2025 – Feb 2026)* |
+| **NASK Group \| NASKSOFT** | AI Specialist — Marketing & E-commerce Automation | • Designed and deployed agentic AI systems for social media monitoring (Social Watchdog).<br>• Built RAG pipeline within a scalable agentic AI architecture for intelligent content and product search.<br>• Implemented 8 AI modules for PakistanProperty, enhancing property discovery and customer targeting.<br>• Developed AI Studio framework for NaskSoft\"s client-facing AI solutions.<br>• Automated Discord-based attendance and engagement systems using n8n.<br>• Conducted AI R&D for PakistanProperty, prototyping intelligent recommendation features. *(Nov 2025 – Feb 2026)* |
 | **HitroTech** | Machine Learning & Data Analyst | • Built ML-powered analytics dashboards for US/UK property markets, providing predictive pricing and market trend insights.<br>• Developed an AI lead scoring system to prioritize client prospects, significantly improving sales conversion.<br>• Cleaned and processed large-scale real estate Excel datasets, establishing automated data pipelines.<br>• Generated actionable predictive insights from property market data to support client decision-making. *(Nov 2024 – Oct 2025)* |
 | **Nexara Matrix** | GenAI & Automation Engineer, AI Startup Builder | • Specialized in building intelligent automation systems, AI-driven tools, and scalable startup solutions.<br>• Developed Generative AI workflows and automated business operations.<br>• Created end-to-end data and AI infrastructures to accelerate productivity and innovation. *(May 2024 - Jan 2025)* |
 | **Venom Foundation** | Discord Community, Early Participation NFT distribution and Trend Whisper Intern | • Supported Web3 ecosystem through community engagement, token management, and NFT distribution.<br>• Collaborated with airdrop and community teams to enhance participation and ensure smooth distribution. *(Apr 2024 - Jun 2024)* |
@@ -145,18 +145,18 @@ Here are some of my notable projects that showcase my expertise in AI, automatio
 -   My focus is on shipping production-ready AI solutions that drive measurable business impact.
 -   I combine technical expertise with strategic thinking to solve complex challenges in e-commerce and digital business.
 -   I am passionate about how intelligent systems can enhance decision-making and create real-world value.
--   My motto: *"Ship AI that works. Drive results. Let automation handle the rest."*
--   Beyond code, I\'m fascinated by the ethical implications and future potential of advanced AI.
+-   My motto: *\"Ship AI that works. Drive results. Let automation handle the rest.\"*
+-   Beyond code, I\"m fascinated by the ethical implications and future potential of advanced AI.
 
 ---
 
-## 🤝 Let\'s Connect
+## 🤝 Let\"s Connect
 
 <div align="center">
 
 💼 Open to **freelance projects**, **AI consulting**, and **collaboration opportunities** in AI, e-commerce automation, and agentic AI.
 
-If you\'re building something with AI, need e-commerce automation, or want to deploy agentic AI — let\'s talk!
+If you\"re building something with AI, need e-commerce automation, or want to deploy agentic AI — let\"s talk!
 
 [![Portfolio](https://img.shields.io/badge/Visit_My_Portfolio-6366f1?style=for-the-badge&logo=google-chrome&logoColor=white)](https://malikfarooq.com)
 [![Email Me](https://img.shields.io/badge/Send_an_Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:malik@malikfarooq.com)
@@ -171,6 +171,6 @@ If you\'re building something with AI, need e-commerce automation, or want to de
 
 ![Profile Views](https://komarev.com/ghpvc/?username=maliklogix&color=6366f1&style=for-the-badge&label=PROFILE+VIEWS)
 
-*"Building intelligent systems that drive real business impact."*
+*\"Building intelligent systems that drive real business impact.\"*
 
 </div>
