@@ -1,10 +1,10 @@
 <div align="center">
 
 <!-- HEADER -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Malik%20Farooq&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Prompt%20Engineer%20%7C%20Automation%20Expert%20%7C%20AI%20Marketer&descSize=16&descAlignY=52"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Malik%20Farooq&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=AI%20Specialist%20%7C%20E-commerce%20AI%20Solutions%20%7C%20Agentic%20AI%20Builder&descSize=16&descAlignY=52"/>
 
 <!-- TYPING SVG -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=6366F1&center=true&vCenter=true&random=false&width=600&lines=Turning+Ideas+into+AI-Powered+Solutions;Prompt+Engineering+%7C+Automation+%7C+AI+Marketing;Building+Business-Oriented+AI+Projects;Let's+Automate+the+Future+Together)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=6366F1&center=true&vCenter=true&random=false&width=700&lines=AI+Specialist+%7C+E-commerce+AI+Solutions;Agentic+AI+%7C+RAG+Pipelines+%7C+LLM+Orchestration;n8n+Automation+%7C+AI+Lead+Scoring+%7C+ML+Pipelines;Shipping+Production-Ready+AI+That+Drives+Results)](https://git.io/typing-svg)
 
 <br/>
 
@@ -12,7 +12,7 @@
 [![Portfolio](https://img.shields.io/badge/Portfolio-malikfarooq.com-6366f1?style=for-the-badge&logo=google-chrome&logoColor=white)](https://malikfarooq.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Malik%20Farooq-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/malik-farooq-1332b637a/)
 [![X](https://img.shields.io/badge/@maliklogix-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/maliklogix)
-[![Email](https://img.shields.io/badge/Email-maliklogix@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:maliklogix@gmail.com)
+[![Email](https://img.shields.io/badge/Email-malik@malikfarooq.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:malik@malikfarooq.com)
 
 </div>
 
@@ -22,24 +22,24 @@
 
 ```yaml
 name: Malik Farooq
-location: Pakistan
-current_role: AI & Automation Specialist @ NaskSoft
-education: Bachelor's in Computer Science
+location: Lahore, Pakistan
+current_role: AI Specialist — E-commerce AI Solutions @ NASK Group | NASKSOFT
+education: BSc Computer Science — University of Sargodha
 website: malikfarooq.com
 
 expertise:
-  - Prompt Engineering & LLM Optimization
-  - AI Marketing & Business Automation
-  - Amazon Product Hunting & Research
-  - Shopify Integrations & E-Commerce
-  - Data Engineering & Analytics
-  - Full-Stack Development
-  - Corporate Social Responsibility (CSR)
+  - Agentic AI Systems & LLM Orchestration
+  - RAG (Retrieval-Augmented Generation) Pipelines
+  - E-commerce AI — Lead Scoring, Product Recommendations, Customer Analytics
+  - n8n Workflow Automation & AI Marketing Automation
+  - Predictive Analytics & ML Pipelines
+  - Data Engineering & Dashboard Development
+  - Prompt Engineering & AI R&D
 
 currently:
-  working_on: Business-oriented AI & automation projects
-  learning: Advanced AI agents & multi-modal systems
-  open_to: Collaborations on AI, automation & e-commerce projects
+  working_on: Agentic AI & e-commerce automation systems
+  learning: Advanced multi-agent architectures & multi-modal AI
+  open_to: Collaborations on AI, e-commerce automation & agentic AI projects
 ```
 
 ---
@@ -48,9 +48,8 @@ currently:
 
 | Company | Role | Focus |
 |---|---|---|
-| **NaskSoft** | AI & Automation Specialist | AI marketing, prompt engineering, business automation *(Current)* |
-| **Hitrotech** | Developer & AI Specialist | Development, AI integrations, technical solutions |
-| **Various Orgs** | Data Engineer | Data pipelines, analytics, engineering workflows |
+| **NASK Group \| NASKSOFT** | AI Specialist — E-commerce & Marketing Automation | Agentic AI systems, RAG pipelines, Social Watchdog, n8n automation *(Nov 2025 – Feb 2026)* |
+| **HitroTech** | Machine Learning & Data Analyst | ML dashboards, AI lead scoring, real estate predictive analytics *(Nov 2024 – Oct 2025)* |
 
 ---
 
@@ -63,6 +62,7 @@ currently:
 ![Claude](https://img.shields.io/badge/Claude-d97757?style=for-the-badge&logo=anthropic&logoColor=white)
 ![Gemini](https://img.shields.io/badge/Gemini-4285F4?style=for-the-badge&logo=google&logoColor=white)
 ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
+![n8n](https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white)
 ![Zapier](https://img.shields.io/badge/Zapier-FF4A00?style=for-the-badge&logo=zapier&logoColor=white)
 ![Make](https://img.shields.io/badge/Make-6D00CC?style=for-the-badge&logo=make&logoColor=white)
 
@@ -105,12 +105,12 @@ currently:
 
 ## Fun Facts
 
-- I can write prompts that make AI do things most people didn't know was possible
-- I've helped businesses find winning Amazon products using AI-powered research
+- I build agentic AI systems that automate what most people still do manually
+- I've shipped RAG pipelines and AI modules for real production platforms
 - I believe the best code is the code you didn't have to write — automate everything
 - Coffee + AI + late nights = my most productive hours
-- I went from Computer Science to AI Marketing — and I'd do it all over again
-- My motto: *"Work smarter, not harder — let AI handle the rest"*
+- I turned a CS degree into production-ready AI solutions — and I'd do it all over again
+- My motto: *"Ship AI that works. Drive results. Let automation handle the rest."*
 
 ---
 
@@ -130,10 +130,10 @@ currently:
 
 💼 Open to **freelance projects**, **AI consulting**, and **collaboration opportunities**
 
-If you're building something with AI or need automation expertise — let's talk!
+If you're building something with AI, need e-commerce automation, or want to deploy agentic AI — let's talk!
 
 [![Portfolio](https://img.shields.io/badge/Visit_My_Portfolio-6366f1?style=for-the-badge&logo=google-chrome&logoColor=white)](https://malikfarooq.com)
-[![Email Me](https://img.shields.io/badge/Send_an_Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:maliklogix@gmail.com)
+[![Email Me](https://img.shields.io/badge/Send_an_Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:malik@malikfarooq.com)
 
 </div>
 
@@ -145,6 +145,6 @@ If you're building something with AI or need automation expertise — let's talk
 
 ![Profile Views](https://komarev.com/ghpvc/?username=maliklogix&color=6366f1&style=for-the-badge&label=PROFILE+VIEWS)
 
-*"Automating the future, one prompt at a time."*
+*"Building intelligent systems that drive real business impact."*
 
 </div>
