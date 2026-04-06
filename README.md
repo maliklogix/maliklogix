@@ -1,46 +1,78 @@
 <div align="center">
 
 <!-- HEADER -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Malik%20Farooq&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=AI%20Specialist%20%7C%20E-commerce%20AI%20Solutions%20%7C%20Agentic%20AI%20Builder&descSize=16&descAlignY=52"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=MalikLogix&fontSize=52&fontColor=fff&animation=twinkling&fontAlignY=35&desc=AI-First%20Digital%20Agency%20%7C%20Agentic%20AI%20%7C%20Automation%20%7C%20LLM%20Orchestration&descSize=16&descAlignY=58"/>
 
 <!-- TYPING SVG -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=6366F1&center=true&vCenter=true&random=false&width=700&lines=AI+Specialist+%7C+E-commerce+AI+Solutions;Agentic+AI+%7C+RAG+Pipelines+%7C+LLM+Orchestration;n8n+Automation+%7C+AI+Lead+Scoring+%7C+ML+Pipelines;Shipping+Production-Ready+AI+That+Drives+Results)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=6366F1&center=true&vCenter=true&random=false&width=800&lines=AI-First+Digital+Marketing+%26+Automation+Agency;Agentic+AI+%7C+RAG+Pipelines+%7C+LLM+Orchestration;n8n+%7C+Make.com+%7C+Multi-Agent+Architectures;Building+AI+Systems+That+Drive+Real+Business+Results)](https://git.io/typing-svg)
 
 <br/>
 
 <!-- SOCIAL BADGES -->
-[![Portfolio](https://img.shields.io/badge/Portfolio-malikfarooq.com-6366f1?style=for-the-badge&logo=google-chrome&logoColor=white)](https://malikfarooq.com)
+[![Agency](https://img.shields.io/badge/Agency-maliklogix.com-6366f1?style=for-the-badge&logo=google-chrome&logoColor=white)](https://maliklogix.com)
+[![Portfolio](https://img.shields.io/badge/Founder-malikfarooq.com-8b5cf6?style=for-the-badge&logo=google-chrome&logoColor=white)](https://malikfarooq.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Malik%20Farooq-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/malik-farooq-1332b637a/)
 [![X](https://img.shields.io/badge/@maliklogix-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/maliklogix)
-[![Email](https://img.shields.io/badge/Email-malik@malikfarooq.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:malik@malikfarooq.com)
+[![Email](https://img.shields.io/badge/Email-hello@maliklogix.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hello@maliklogix.com)
 
 </div>
 
 ---
 
-## About Me
+## Who We Are
 
 ```yaml
-name: Malik Farooq
-location: Punjab, Pakistan
-current_role: AI Specialist — E-commerce AI Solutions @ NASK Group | NASKSOFT
-education: BSc Computer Science — University of Sargodha
-website: malikfarooq.com
+agency: MalikLogix
+founded: 2020
+founder: Malik Farooq (BSc Computer Science)
+location: Pakistan
+website: maliklogix.com
+founder_site: malikfarooq.com
 
-expertise:
-  - Agentic AI Systems & LLM Orchestration
-  - RAG (Retrieval-Augmented Generation) Pipelines
-  - E-commerce AI — Lead Scoring, Product Recommendations, Customer Analytics
-  - n8n Workflow Automation & AI Marketing Automation
-  - Predictive Analytics & ML Pipelines
-  - Data Engineering & Dashboard Development
-  - Prompt Engineering & AI R&D
+mission: >
+  Building production-ready AI systems, agentic workflows, and
+  intelligent automation that drive measurable business growth.
 
-currently:
-  working_on: Agentic AI & e-commerce automation systems
-  learning: Advanced multi-agent architectures & multi-modal AI
-  open_to: Collaborations on AI, e-commerce automation & agentic AI projects
+what_we_do:
+  - Agentic AI Systems & Multi-Agent Architectures
+  - LLM Orchestration & RAG Pipeline Development
+  - AI-Powered Digital Marketing & Lead Generation
+  - n8n & Make.com Workflow Automation
+  - E-commerce AI — Recommendations, Lead Scoring, Analytics
+  - Predictive Analytics & ML Pipeline Engineering
+  - Custom AI Chatbots & Conversational Agents
+  - Data Engineering & Business Intelligence Dashboards
+  - Prompt Engineering & AI R&D Consulting
+
+currently_building:
+  - Advanced multi-agent orchestration systems
+  - AI skills directory — OpenClaw SkillHub (maliklogix.com/tools)
+  - Production RAG pipelines for e-commerce & SaaS clients
+
+open_to:
+  - AI consulting & freelance projects
+  - Agency partnerships & white-label AI builds
+  - Collaborations on agentic AI & automation projects
 ```
+
+---
+
+## Our Services
+
+<div align="center">
+
+| 🤖 AI & Automation | 📈 Marketing & Growth | 🛠️ Development |
+|---|---|---|
+| Agentic AI System Design | AI-Driven Lead Generation | Next.js / React Web Apps |
+| RAG Pipeline Development | Predictive Lead Scoring | REST API Development |
+| LLM Orchestration | AI Content Strategy | MariaDB / MySQL Engineering |
+| Multi-Agent Architectures | Email & CRM Automation | n8n Workflow Builds |
+| AI Chatbot Development | E-commerce AI Funnels | Make.com & Zapier Flows |
+| Prompt Engineering | Analytics & Reporting | Hostinger / Node.js Hosting |
+
+</div>
+
+> **Full service list → [maliklogix.com](https://maliklogix.com)**
 
 ---
 
@@ -48,36 +80,64 @@ currently:
 
 <div align="center">
 
-### AI & Automation
-![ChatGPT](https://img.shields.io/badge/ChatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white)
+### 🤖 AI & LLM Ecosystem
 ![Claude](https://img.shields.io/badge/Claude-d97757?style=for-the-badge&logo=anthropic&logoColor=white)
+![ChatGPT](https://img.shields.io/badge/ChatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white)
 ![Gemini](https://img.shields.io/badge/Gemini-4285F4?style=for-the-badge&logo=google&logoColor=white)
+![Mistral](https://img.shields.io/badge/Mistral%20AI-FF7000?style=for-the-badge&logo=mistral&logoColor=white)
 ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
-![n8n](https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white)
-![Zapier](https://img.shields.io/badge/Zapier-FF4A00?style=for-the-badge&logo=zapier&logoColor=white)
-![Make](https://img.shields.io/badge/Make-6D00CC?style=for-the-badge&logo=make&logoColor=white)
 
-### Development
+### ⚙️ Automation & Workflow
+![n8n](https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white)
+![Make](https://img.shields.io/badge/Make-6D00CC?style=for-the-badge&logo=make&logoColor=white)
+![Zapier](https://img.shields.io/badge/Zapier-FF4A00?style=for-the-badge&logo=zapier&logoColor=white)
+
+### 💻 Development
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white)
 
-### E-Commerce & Marketing
+### 🗄️ Data & Infrastructure
+![MySQL](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white)
+
+### 🛒 E-Commerce & Marketing
 ![Shopify](https://img.shields.io/badge/Shopify-7AB55C?style=for-the-badge&logo=shopify&logoColor=white)
 ![Amazon](https://img.shields.io/badge/Amazon-FF9900?style=for-the-badge&logo=amazon&logoColor=white)
 ![WordPress](https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white)
+![Google Analytics](https://img.shields.io/badge/GA4-E37400?style=for-the-badge&logo=google-analytics&logoColor=white)
 
-### Data & Tools
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+### 🧰 Tools & DevOps
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
 </div>
+
+---
+
+## Featured Projects
+
+<div align="center">
+
+| Project | Description | Stack |
+|---|---|---|
+| 🤖 **Agentic AI Chatbot** | Production-grade LLM chatbot with Mistral AI, multi-turn context & RAG | Next.js, Mistral, MariaDB |
+| 🧠 **OpenClaw SkillHub** | AI skills directory & prompt library for LLM workflows | Next.js, MDX, Node.js |
+| 📊 **AI Lead Scoring Engine** | ML pipeline that scores inbound leads and routes them in real time | Python, n8n, MySQL |
+| 🛒 **E-commerce AI Recommender** | Personalized product recommendation system for Shopify stores | Python, LangChain, Shopify API |
+| ⚙️ **n8n Automation Suites** | Multi-step business automation workflows: CRM sync, email sequences, reporting | n8n, Make.com, Zapier |
+| 📈 **Predictive Analytics Dashboard** | Business intelligence dashboard with AI-forecasted KPIs | React, Python, MariaDB |
+| 🔑 **API Key Tester** | Developer utility to validate and test LLM API keys across providers | Node.js, React |
+| 📝 **AI Blog Content Engine** | 159-post MDX blog system with SSR, SEO, and automated frontmatter | Next.js, MDX, gray-matter |
+
+</div>
+
+[![API Key Tester](https://github-readme-stats.vercel.app/api/pin/?username=maliklogix&repo=APIKeyTester&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6366F1&icon_color=6366F1&text_color=C9D1D9)](https://github.com/maliklogix/APIKeyTester)
 
 ---
 
@@ -94,37 +154,31 @@ currently:
 
 ---
 
-## Fun Facts
+## What Makes MalikLogix Different
 
-- I build agentic AI systems that automate what most people still do manually
-- I've shipped RAG pipelines and AI modules for real production platforms
-- I believe the best code is the code you didn't have to write — automate everything
-- Coffee + AI + late nights = my most productive hours
-- I turned a CS degree into production-ready AI solutions — and I'd do it all over again
-- My motto: *"Ship AI that works. Drive results. Let automation handle the rest."*
+- 🏗️ **Founded 2020** — built from the ground up as an AI-first agency before "AI-first" was a buzzword
+- 🚀 **Production, not prototypes** — every system we build ships to real users and drives real results
+- 🔁 **End-to-end ownership** — from LLM selection and RAG architecture to frontend, hosting, and analytics
+- 🧩 **Multi-agent by default** — we architect systems where AI agents collaborate, not just respond
+- 📦 **159+ AI blog posts** — building one of the most comprehensive AI automation knowledge bases in the region
+- ⚡ **Automation-first mindset** — if a human is doing it repeatedly, we build an agent to do it better
+- 🌍 **Pakistan-based, globally-thinking** — delivering enterprise-grade AI to clients worldwide
 
----
-
-## Featured Projects
-
-<div align="center">
-
-[![API Key Tester](https://github-readme-stats.vercel.app/api/pin/?username=maliklogix&repo=APIKeyTester&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6366F1&icon_color=6366F1&text_color=C9D1D9)](https://github.com/maliklogix/APIKeyTester)
-
-</div>
+> *"Ship AI that works. Drive results. Let automation handle the rest."* — **Malik Farooq, Founder & CEO**
 
 ---
 
-## Let's Connect
+## Let's Work Together
 
 <div align="center">
 
-💼 Open to **freelance projects**, **AI consulting**, and **collaboration opportunities**
+💼 Open to **AI consulting**, **agentic AI builds**, **automation projects**, and **agency partnerships**
 
-If you're building something with AI, need e-commerce automation, or want to deploy agentic AI — let's talk!
+Whether you need a production RAG pipeline, a multi-agent workflow, or an AI-powered marketing system — we build it.
 
-[![Portfolio](https://img.shields.io/badge/Visit_My_Portfolio-6366f1?style=for-the-badge&logo=google-chrome&logoColor=white)](https://malikfarooq.com)
-[![Email Me](https://img.shields.io/badge/Send_an_Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:malik@malikfarooq.com)
+[![Visit MalikLogix](https://img.shields.io/badge/Visit_MalikLogix-6366f1?style=for-the-badge&logo=google-chrome&logoColor=white)](https://maliklogix.com)
+[![Founder Site](https://img.shields.io/badge/Founder_Portfolio-8b5cf6?style=for-the-badge&logo=google-chrome&logoColor=white)](https://malikfarooq.com)
+[![Email Us](https://img.shields.io/badge/hello@maliklogix.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hello@maliklogix.com)
 
 </div>
 
@@ -132,10 +186,12 @@ If you're building something with AI, need e-commerce automation, or want to dep
 
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer"/>
 
 ![Profile Views](https://komarev.com/ghpvc/?username=maliklogix&color=6366f1&style=for-the-badge&label=PROFILE+VIEWS)
 
-*"Building intelligent systems that drive real business impact."*
+**MalikLogix** · AI-First Digital Agency · Pakistan · [maliklogix.com](https://maliklogix.com)
+
+*"Building intelligent systems that drive real business impact — since 2020."*
 
 </div>
