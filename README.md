@@ -22,7 +22,7 @@
 
 ```yaml
 name: Malik Farooq
-location: Lahore, Pakistan
+location: Punjab, Pakistan
 current_role: AI Specialist — E-commerce AI Solutions @ NASK Group | NASKSOFT
 education: BSc Computer Science — University of Sargodha
 website: malikfarooq.com
@@ -41,15 +41,6 @@ currently:
   learning: Advanced multi-agent architectures & multi-modal AI
   open_to: Collaborations on AI, e-commerce automation & agentic AI projects
 ```
-
----
-
-## Work Experience
-
-| Company | Role | Focus |
-|---|---|---|
-| **NASK Group \| NASKSOFT** | AI Specialist — E-commerce & Marketing Automation | Agentic AI systems, RAG pipelines, Social Watchdog, n8n automation *(Nov 2025 – Feb 2026)* |
-| **HitroTech** | Machine Learning & Data Analyst | ML dashboards, AI lead scoring, real estate predictive analytics *(Nov 2024 – Oct 2025)* |
 
 ---
 
